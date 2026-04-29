@@ -1,0 +1,3 @@
+This is a sample line with short and long words.
+Another line here with various word lengths.
+Python programming is fun and educational.

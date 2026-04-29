@@ -1,0 +1,10 @@
+ERROR: Database connection failed
+INFO: Application started successfully
+WARNING: Low disk space detected
+ERROR: Invalid user input
+INFO: User logged in
+WARNING: High memory usage
+ERROR: Network timeout
+INFO: File uploaded
+WARNING: Deprecated API usage
+ERROR: Authentication failed
