@@ -1,0 +1,9 @@
+Product ID,Name,Category,Price,Stock,Avg Sales
+PROD001,Laptop,Electronics,999.99,12,5.0
+PROD002,Keyboard,Accessories,49.99,40,2.4
+PROD003,Monitor,Electronics,199.99,25,3.4
+PROD004,Mouse,Accessories,25.99,18,2.8
+PROD005,Printer,Office,150.0,10,1.4
+PROD006,USB Cable,Accessories,10.0,60,4.0
+PROD007,Notebook,Office,5.0,100,6.2
+PROD008,Tablet,Electronics,300.0,20,2.8
