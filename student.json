@@ -1,67 +1,67 @@
 {
-    "S001": {
-        "name": "Alice",
-        "grades": [
-            85,
-            90,
-            78
-        ],
-        "attendance": 0.95,
-        "projects": {
-            "proj1": 95,
-            "proj2": 88
-        }
-    },
-    "S002": {
-        "name": "Bob",
-        "grades": [
-            80,
-            82,
-            85
-        ],
-        "attendance": 0.9,
-        "projects": {
-            "proj1": 80,
-            "proj2": 85
-        }
-    },
-    "S003": {
-        "name": "Charlie",
-        "grades": [
-            92,
-            88,
-            91
-        ],
-        "attendance": 0.98,
-        "projects": {
-            "proj1": 90,
-            "proj2": 92
-        }
-    },
-    "S004": {
-        "name": "David",
-        "grades": [
-            78,
-            85,
-            80
-        ],
-        "attendance": 0.92,
-        "projects": {
-            "proj1": 85,
-            "proj2": 80
-        }
-    },
-    "S005": {
-        "name": "Eve",
-        "grades": [
-            88,
-            90,
-            92
-        ],
-        "attendance": 0.97,
-        "projects": {
-            "proj1": 92,
-            "proj2": 95
-        }
-    }
+ "S001": {
+  "name": "Alice",
+  "grades": [
+   85,
+   90,
+   78
+  ],
+  "attendance": 0.95,
+  "projects": {
+   "proj1": 95,
+   "proj2": 88
+  }
+ },
+ "S002": {
+  "name": "Bob",
+  "grades": [
+   80,
+   82,
+   85
+  ],
+  "attendance": 0.9,
+  "projects": {
+   "proj1": 80,
+   "proj2": 85
+  }
+ },
+ "S003": {
+  "name": "Charlie",
+  "grades": [
+   92,
+   88,
+   91
+  ],
+  "attendance": 0.98,
+  "projects": {
+   "proj1": 90,
+   "proj2": 92
+  }
+ },
+ "S004": {
+  "name": "David",
+  "grades": [
+   78,
+   85,
+   80
+  ],
+  "attendance": 0.92,
+  "projects": {
+   "proj1": 85,
+   "proj2": 80
+  }
+ },
+ "S005": {
+  "name": "Eve",
+  "grades": [
+   88,
+   90,
+   92
+  ],
+  "attendance": 0.97,
+  "projects": {
+   "proj1": 92,
+   "proj2": 95
+  }
+ }
 }
